@@ -2361,7 +2361,6 @@ html {
 }
 
 .img-card{
-  max-width: 186px;
   max-height: 148px;
   height: 100%;
   -o-object-fit: cover;
